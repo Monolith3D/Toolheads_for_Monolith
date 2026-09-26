@@ -11,6 +11,7 @@ Each project provides its own files, build instructions, updates, and support.
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype)
 - [Banantis](https://github.com/jakub874/Banantis)
 - [DK's Monolith Toolhead](https://github.com/Kizime123/DKs-Monolith-Toolhead)
+- [Dreadnaught Toolhead](https://github.com/Thescarecow/Dreadnaught-Toolhead)
 - [FiberStream Toolhead](https://www.printables.com/model/1219174-fiberstream-toolhead)
 - [Gustav Railway Toolhead](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead)
 - [Stormbreaker Toolhead](https://github.com/Gr33n5murf/Stormbreaker-Toolhead)
