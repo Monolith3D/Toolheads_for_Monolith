@@ -23,9 +23,12 @@ Includes AWD full Y travel, AWD FT-FT without Y overtravel, and 2WD full Y trave
 
 - Evaluate the complete printer/toolhead system: total mass, center of mass, carriage stiffness, and the hotend and extruder mounts, including their attachment to the carriage.
 - A metal carriage can reduce carriage deflection under belt tension, but it does not remove flexibility in printed hotend and extruder mounts.
+- Treat the X-rail as part of the toolhead stiffness. Z2 / the highest available preload is recommended, especially with AWD, high belt tension, heavier toolheads, or toolheads with poor center of mass. Other preload classes can work.
 
 ## Clearance and endstops
 
 - X travel and AWD front clearance depend on the toolhead.
+- Check cable clearance throughout the full travel range.
 - Physical X and Y endstop switches and sensorless homing are supported.
-- The gantry-side X switch mounts to the Y extrusion because toolheads, carriages, and XY-joints do not share one universal toolhead-mounted switch position. Home Y before X when using it.
+- The gantry-side [X-endstop housing](https://github.com/Monolith3D/Monolith_Gantry/blob/main/STLs/X_endstop_housing.stl) mounts to the Y extrusion because toolheads, carriages, and XY-joints do not share one universal toolhead-mounted switch position. Home Y before X when using it.
+- The [Y-endstop housing](https://github.com/Monolith3D/Monolith_Gantry/blob/main/STLs/Y_endstop_housing.stl) mounts on the rear extrusion between the rear mounts and is triggered by the X-beam.
