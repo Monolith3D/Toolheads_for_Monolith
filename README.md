@@ -16,6 +16,7 @@ Each project provides its own files, build instructions, updates, and support.
 - [Stormbreaker Toolhead](https://github.com/Gr33n5murf/Stormbreaker-Toolhead)
 - [Takeoff Toolhead](https://github.com/Kizime123/Takeoff-Toolhead)
 - [Trinity Toolhead](https://github.com/WV-design/Trinity-toolhead/)
+- [Trinicorn SLM Toolhead](https://github.com/Martin-Ivanc/Trinicorn-Toolhead/)
 - [UAP](https://www.printables.com/model/1353685-uap-v6)
 - [Xol Toolhead](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
 
