@@ -16,6 +16,7 @@ Each project provides its own files, build instructions, updates, and support.
 - [FiberStream Toolhead](https://www.printables.com/model/1219174-fiberstream-toolhead)
 - [Gustav Railway Toolhead](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead)
 - [RX Toolhead](https://makerworld.com/en/models/2816460-rx-toolhead-v5-using-bambu-h2s-a1-gear-hotend)
+- [Sphinx Toolhead](https://github.com/riley-github/Sphinx-Toolhead)
 - [Stormbreaker Toolhead](https://github.com/Gr33n5murf/Stormbreaker-Toolhead)
 - [Takeoff Toolhead](https://github.com/Kizime123/Takeoff-Toolhead)
 - [Trinity Toolhead](https://github.com/WV-design/Trinity-toolhead/)
